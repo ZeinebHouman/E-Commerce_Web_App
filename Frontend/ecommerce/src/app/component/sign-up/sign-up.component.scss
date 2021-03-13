@@ -1,0 +1,30 @@
+
+button{
+    font-size:18px;
+    width:300px;
+}
+button.fb-btn{
+    background-color:#3b5998 ;
+}
+button.fb-btn:hover{
+background-color:#5472ae ;
+}
+
+p span { 
+background:#fff; 
+padding:0 10px; 
+}
+fieldset{
+    p.or{
+        width: 40%;
+        border-bottom: 1px solid #000; 
+        line-height: 0.1em;
+    }
+}
+
+label{
+    font-size:18px;
+}
+.required-field{
+    color: #F50000;
+}
